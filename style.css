@@ -210,3 +210,31 @@ p{
     height: 100%;
     background-color: #3590d2;
 }
+.hr{
+    border: 5px dotted #666;
+    border-bottom: none;
+    position: relative;
+    bottom: 1.5rem;
+    width: 65%;
+    display: block;
+    margin: auto;
+}
+.git-link{
+    text-decoration: none;
+    color: #333;
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+}
+.footer-icon{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 1px;
+}
+.footer-bottom{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
